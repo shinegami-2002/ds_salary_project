@@ -1,1 +1,2 @@
-##resources https://github.com/PlayingNumbers/ds_salary_proj/blob/master/glassdoor_jobs.csv
+#resources
+https://github.com/PlayingNumbers/ds_salary_proj/blob/master/glassdoor_jobs.csv
